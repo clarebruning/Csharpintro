@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\bin\Debug\Exer3Bruning.exe.config
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\bin\Debug\Exer3Bruning.exe
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\bin\Debug\Exer3Bruning.pdb
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.Exer3Form.resources
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.exe
+C:\Users\Ryan\Desktop\C#\Exer3Bruning\Exer3Bruning\obj\Debug\Exer3Bruning.pdb

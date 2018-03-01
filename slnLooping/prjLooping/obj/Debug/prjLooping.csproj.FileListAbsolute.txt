@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\bin\Debug\prjLooping.exe.config
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\bin\Debug\prjLooping.exe
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\bin\Debug\prjLooping.pdb
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.frmLooping.resources
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.exe
+C:\Users\Ryan\Desktop\C#\slnLooping\prjLooping\obj\Debug\prjLooping.pdb

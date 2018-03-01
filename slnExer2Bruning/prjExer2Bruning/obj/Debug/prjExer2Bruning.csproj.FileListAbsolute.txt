@@ -1,0 +1,10 @@
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\bin\Debug\prjExer2Bruning.exe.config
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\bin\Debug\prjExer2Bruning.exe
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\bin\Debug\prjExer2Bruning.pdb
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.csprojResolveAssemblyReference.cache
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.frmExer1Bruning.resources
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.Properties.Resources.resources
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.csproj.GenerateResource.Cache
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.csproj.CoreCompileInputs.cache
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.exe
+c:\users\ryan\source\repos\slnExer2Bruning\prjExer2Bruning\obj\Debug\prjExer2Bruning.pdb

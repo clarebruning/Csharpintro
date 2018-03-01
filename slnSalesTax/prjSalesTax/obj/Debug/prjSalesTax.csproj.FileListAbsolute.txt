@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\bin\Debug\prjSalesTax.exe.config
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\bin\Debug\prjSalesTax.exe
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\bin\Debug\prjSalesTax.pdb
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.frmSalesTax.resources
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.exe
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.pdb
+C:\Users\Ryan\Desktop\C#\slnSalesTax\prjSalesTax\obj\Debug\prjSalesTax.frmAbout.resources

@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\bin\Debug\prjMilesConverter.exe.config
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\bin\Debug\prjMilesConverter.exe
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\bin\Debug\prjMilesConverter.pdb
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.frmMilesConverter.resources
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.exe
+C:\Users\Ryan\Desktop\C#\slnMilesConverter\prjMilesConverter\obj\Debug\prjMilesConverter.pdb

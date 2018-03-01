@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.frmHelloWorld.resources
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\bin\Debug\prjHelloWorld.exe.config
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\bin\Debug\prjHelloWorld.exe
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\bin\Debug\prjHelloWorld.pdb
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.exe
+C:\Users\Ryan\Desktop\C#\slnHelloWorld\prjHelloWorld\obj\Debug\prjHelloWorld.pdb

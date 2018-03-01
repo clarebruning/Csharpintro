@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\bin\Debug\prjSalary.exe.config
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\bin\Debug\prjSalary.exe
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\bin\Debug\prjSalary.pdb
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.frmSalary.resources
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.exe
+C:\Users\Ryan\Desktop\C#\slnSalary\prjSalary\obj\Debug\prjSalary.pdb

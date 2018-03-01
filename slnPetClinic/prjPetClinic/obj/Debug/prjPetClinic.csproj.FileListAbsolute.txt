@@ -1,0 +1,10 @@
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.exe.config
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.exe
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.pdb
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.frmPetClinic.resources
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.exe
+C:\Users\Ryan\Desktop\C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.pdb
